@@ -1,0 +1,33 @@
+{ pkgs }: {
+	deps = [
+		pkgs.gnumake
+  pkgs.gnumake
+  pkgs.gnumake42
+  pkgs.gnumake
+  pkgs.gnumake42
+  pkgs.gnumake42
+  pkgs.gnumake42
+  pkgs.gnumake42
+  pkgs.gnumake42
+  pkgs.gnumake42
+  pkgs.gnumake42
+  pkgs.gnumake42
+  pkgs.gfortran49
+  pkgs.gfortran49
+  pkgs.gfortran49
+  pkgs.gnumake
+  pkgs.gnumake
+  pkgs.gnumake42
+  pkgs.gnumake42
+  pkgs.clear
+  pkgs.gnumake
+  pkgs.clear
+  pkgs.gnumake42
+  pkgs../stack
+  pkgs.cliquer
+  pkgs.clang_12
+		pkgs.ccls
+		pkgs.gdb
+		pkgs.gnumake
+	];
+}
